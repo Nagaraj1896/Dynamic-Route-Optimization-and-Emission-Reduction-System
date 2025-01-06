@@ -1,0 +1,10 @@
+flask
+requests
+folium
+pandas
+numpy
+scikit-learn
+plotly
+python-dotenv
+sqlalchemy
+osrm-py
